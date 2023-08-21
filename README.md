@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zilboy18
+- 👋 Hi, I’m @Abdulsamad18
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science/Machine learning
 - 💞️ I’m looking to collaborate on Helping humanity
